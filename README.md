@@ -68,10 +68,6 @@ linkchecker:
       - "**/*.md"
 ```
 
-## Run in other tools
-
-- [Mega-Linter](https://megalinter.io/latest/): Linters aggregator [including markdown-link-check](https://megalinter.io/latest/descriptors/markdown_markdown_link_check/)
-
 ## API
 
 ### markdownLinkCheck(markdown, [opts,] callback)
