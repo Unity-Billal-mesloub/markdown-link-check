@@ -1,8 +1,8 @@
-[![Releases](https://img.shields.io/github/v/tag/tcort/markdown-link-check.svg?sort=semver)](https://github.com/tcort/markdown-link-check/releases)
-[![Stars](https://img.shields.io/github/stars/tcort/markdown-link-check)](https://github.com/tcort/markdown-link-check/stargazers)
-[![Forks](https://img.shields.io/github/forks/tcort/markdown-link-check)](https://github.com/tcort/markdown-link-check/network/members)
-[![Test library workflow status](https://github.com/tcort/markdown-link-check/actions/workflows/ci.yml/badge.svg)](https://github.com/tcort/markdown-link-check/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/tcort/markdown-link-check)](https://github.com/tcort/markdown-link-check/blob/master/LICENSE.md)
+[![Releases](https://img.shields.io/github/v/tag/tcort/markdown-link-check.svg?sort=semver)](https://github.com/Unity-Billal-mesloub/markdown-link-check/releases)
+[![Stars](https://img.shields.io/github/stars/tcort/markdown-link-check)](https://github.com/Unity-Billal-mesloub/markdown-link-check/stargazers)
+[![Forks](https://img.shields.io/github/forks/tcort/markdown-link-check)](https://github.com/Unity-Billal-mesloub/markdown-link-check/network/members)
+[![Test library workflow status](https://github.com/Unity-Billal-mesloub/markdown-link-check/actions/workflows/ci.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/markdown-link-check/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/tcort/markdown-link-check)](https://github.com/Unity-Billal-mesloub/markdown-link-check/blob/main/LICENSE.md)
 
 # markdown-link-check
 
@@ -39,7 +39,7 @@ Alternatively, if you wish to target a specific release, images are tagged with 
 
 ## Run in a GitHub action
 
-Please head on to [github-action-markdown-link-check](https://github.com/tcort/github-action-markdown-link-check).
+Please head on to [github-action-markdown-link-check](https://github.com/Unity-Billal-mesloub/github-action-markdown-link-check).
 
 ## Run as a pre-commit hook
 
@@ -162,7 +162,7 @@ If not supplied, the tool reads from standard input.
 #### Check links from a markdown file hosted on the web
 
 ```shell
-markdown-link-check https://github.com/tcort/markdown-link-check/blob/master/README.md
+markdown-link-check https://github.com/Unity-Billal-mesloub/markdown-link-check/blob/main/README.md
 ```
 
 #### Check links from a local markdown file
@@ -323,4 +323,4 @@ npm test
 
 ## License
 
-See [LICENSE.md](https://github.com/tcort/markdown-link-check/blob/master/LICENSE.md)
+See [LICENSE.md](https://github.com/Unity-Billal-mesloub/markdown-link-check/blob/main/LICENSE.md)
